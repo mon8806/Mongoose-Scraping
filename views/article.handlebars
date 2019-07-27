@@ -1,0 +1,16 @@
+
+{{#each articles}}
+<div class="card">
+  <div class="card-header"style="background-color: black; color: white;">
+    <h2 class="card-title" >{{this.title}}</h2>
+  </div>
+  <div class="card-body" style="background-color: gray;">
+    <p class="card-text">{{this.summary}}</p>
+    <a href={{this.link}} class="btn btn-primary">{{this.link}}</a>
+    <br>
+    <br>
+    <button class="save" type="button" data-id={{this._id}}>Save Article</button>
+  </div>
+</div>
+
+{{/each}}
