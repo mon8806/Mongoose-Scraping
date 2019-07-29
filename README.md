@@ -6,13 +6,13 @@ The app lets user scrape headlines and links to articles from Allkpop. They can 
 
 
 ### Scraping and saving articles.
-![] (https://i.gyazo.com/b029701ac42ea9d2c7e30a7990e22a1e.gif)
+[![Image from Gyazo](https://i.gyazo.com/b029701ac42ea9d2c7e30a7990e22a1e.gif)](https://gyazo.com/b029701ac42ea9d2c7e30a7990e22a1e)
 
 ### Adding comments to saved articles.
-![] (https://i.gyazo.com/1f16308d05a1e5b2a151580e6ffb9999.gif)
+[![Image from Gyazo](https://i.gyazo.com/1f16308d05a1e5b2a151580e6ffb9999.gif)](https://gyazo.com/1f16308d05a1e5b2a151580e6ffb9999)
 
 ### Deleting comments and articles.
-![] (https://i.gyazo.com/a877b7d0773b4bf10befbfcb1740359b.gif)
+[![Image from Gyazo](https://i.gyazo.com/a877b7d0773b4bf10befbfcb1740359b.gif)](https://gyazo.com/a877b7d0773b4bf10befbfcb1740359b)
 
 ### Technology
 * Node
